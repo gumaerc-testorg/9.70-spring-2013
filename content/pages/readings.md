@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 064dd259-60ad-2e1d-c546-461b43b5289e
 ---
@@ -19,7 +22,7 @@ Aronson will lead us through the scientific literature relating to the dynamics 
 
 In effect, Professor Aronson will introduce us to some key substantive, procedural, and ethical issues in experimental social psychology and take us on an up-to-date tour of its varied literature.
 
-Pertinently, this SA 11th is the latest (2011). It integrates relevant developments since the 10th edition back in 2008, including a discussion of recent fMRI evidence about the effects of social support on brain activity related to fear and references to the 2008 presidential election and its aftermath. It is, of course, silent on some significant events that have occurred since then, and we will surely want to consider some of them.
+Pertinently, this SA 11{{< sup "th" >}} is the latest (2011). It integrates relevant developments since the 10{{< sup "th" >}} edition back in 2008, including a discussion of recent fMRI evidence about the effects of social support on brain activity related to fear and references to the 2008 presidential election and its aftermath. It is, of course, silent on some significant events that have occurred since then, and we will surely want to consider some of them.
 
 Much of the material that you will encounter via the text and otherwise in this class is perpetually timely and drawn from classical experiments—some of them decades old. Don't expect the conclusions to be drawn to be outdated and of merely historical interest. The experiments are "classical" precisely because they speak eloquently on matters highly relevant to understanding current events.
 
