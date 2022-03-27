@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 064dd259-60ad-2e1d-c546-461b43b5289e
 resourcetype: Document
 title: 'Lecture 4 Human systems: A selection of development schemes'
 uid: b08393a2-c76e-ac07-389a-ee863c70fcf5

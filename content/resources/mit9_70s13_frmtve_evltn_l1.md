@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: b7510edb-170e-a880-1ef3-917767c644d2
 resourcetype: Document
 title: Lecture 1 Draft formative and summative evaluation form
 uid: a0544668-8f95-8029-f8f8-c8ab2af5f166
