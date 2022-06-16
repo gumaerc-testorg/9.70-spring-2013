@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on working with study groups for the
+  course, study group meetings, and submitting weekly study group minutes.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -10,7 +12,7 @@ uid: a8581065-5bd4-89bb-6293-22c9c7da1652
 Study Groups
 ------------
 
-See also the handout entitled: "Working groups" available on the [Lecture Notes]({{< baseurl >}}/pages/lecture-notes) page.
+See also the handout entitled: "Working groups" available on the {{% resource_link b7510edb-170e-a880-1ef3-917767c644d2 "Lecture Notes" %}} page.
 
 The class will be divided randomly into 4–6 Study Groups. Why randomly? If you are reading this before the class has actually begun, try to answer this question for yourself before reading further. Be prepared to argue for or against this method of procedure as you see fit.
 

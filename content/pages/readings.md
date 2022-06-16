@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides information on the required textbook for the course,
+  notes on readings and viewings, and the schedule of lecture topics, readings, and
+  viewings by session.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -84,7 +87,7 @@ READINGS & VIEWINGS
 
 Preliminary Information Form and Benchmark Questionnaire
 
-[Syllabus]({{< baseurl >}}/pages/syllabus)–Why such a gigantic Document?
+{{% resource_link a03c67b0-fa88-dad4-f7f3-e4e7b80de300 "Syllabus" %}}–Why such a gigantic Document?
 
 Working Groups
 
@@ -116,7 +119,7 @@ The Science of Social Psychology and Vice-versa I
 {{< tdopen >}}
 
 
-1.2-1 [Syllabus]({{< baseurl >}}/pages/syllabus)
+1.2-1 {{% resource_link a03c67b0-fa88-dad4-f7f3-e4e7b80de300 "Syllabus" %}}
 
 1.2-2 \[SA\] Front Matter, Back Matter, and Chapter 1.
 
@@ -182,7 +185,7 @@ Persons-In-Contexts I
 {{< tdopen >}}
 
 
-2.1-1 [Human systems: A selection of development schemes (PDF)]({{< baseurl >}}/resources/mit9_70s13_dvlpt_schms_l4)
+2.1-1 {{% resource_link b08393a2-c76e-ac07-389a-ee863c70fcf5 "Human systems: A selection of development schemes (PDF)" %}}
 
 2.1-2 Jackson, Don D. "[The Individual and the Larger Contexts](http://dx.doi.org/10.1111/j.1545-5300.1967.00139.x)." _Family Process_ 6, no. 2 (1967): 139–47.
 
@@ -290,7 +293,7 @@ Us and Them I
 
 2.5-1 \[SA\] Chapter 5.
 
-2.5-2 Haney, Craig, W. Curtis Banks, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Study of Prisoners and Guards in a Simulated Prison." (PDF)](https://www.researchgate.net/publication/235356446_A_Study_of_Prisoners_and_Guards_in_a_Simulated_Prison) _Naval Research Reviews_ 9, no. 1–17 (1973).
+2.5-2 Haney, Craig, W. Curtis Banks, et al. ["Study of Prisoners and Guards in a Simulated Prison." (PDF)](https://www.researchgate.net/publication/235356446_A_Study_of_Prisoners_and_Guards_in_a_Simulated_Prison) _Naval Research Reviews_ 9, no. 1–17 (1973).
 
 2.5-3 _Quiet Rage: The Stanford Prison Study_. Directed by K. Musen, and P. G. Zimbardo. 1991. \[Stanford, CA: Psychology Dept., Stanford University, videorecording.\]
 

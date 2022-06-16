@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding lecture notes 1.
-file: /media/courses/9-70-social-psychology-spring-2013/0560d8de0870e61c6624348450f19dfc_MIT9_70S13_std_rst_fm_L1.pdf
+file: /courses/9-70-social-psychology-spring-2013/0560d8de0870e61c6624348450f19dfc_MIT9_70S13_std_rst_fm_L1.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Document
 title: Lecture 1 Study group roster
 uid: 0560d8de-0870-e61c-6624-348450f19dfc
 ---
+This file contains information regarding lecture notes 1.
+

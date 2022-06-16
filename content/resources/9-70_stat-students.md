@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/9-70-social-psychology-spring-2013/14cb857b7f2f895e9a6854cdae06c049_9-70_stat-students.png
+file: /courses/9-70-social-psychology-spring-2013/14cb857b7f2f895e9a6854cdae06c049_9-70_stat-students.png
 file_type: image/png
 image_metadata:
   caption: ''

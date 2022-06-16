@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding lecture notes 4.
-file: /media/courses/9-70-social-psychology-spring-2013/04d106d77fa131adf233f960da7b9d65_MIT9_70S13_Lect4.pdf
+file: /courses/9-70-social-psychology-spring-2013/04d106d77fa131adf233f960da7b9d65_MIT9_70S13_Lect4.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Document
 title: Lecture 4 Lecture Notes
 uid: 04d106d7-7fa1-31ad-f233-f960da7b9d65
 ---
+This file contains information regarding lecture notes 4.
+
