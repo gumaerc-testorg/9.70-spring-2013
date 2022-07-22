@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the schedule of course topics, facilitators, and
+  assignment due dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 483c172d-3222-2124-2766-0cd3e1fa9dd2
 ---
