@@ -5,6 +5,7 @@ file: /courses/9-70-social-psychology-spring-2013/0560d8de0870e61c6624348450f19d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Lecture 1 Study group roster
 uid: 0560d8de-0870-e61c-6624-348450f19dfc
 ---
 This file contains information regarding lecture notes 1.
-

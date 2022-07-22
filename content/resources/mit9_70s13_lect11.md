@@ -5,6 +5,7 @@ file: /courses/9-70-social-psychology-spring-2013/4d7e057cc4693991f17b3beb04146a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
