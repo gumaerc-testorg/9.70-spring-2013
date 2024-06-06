@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding lecture notes 6.
 file: /courses/9-70-social-psychology-spring-2013/927cda2411aba344a594dd0e6a120b2d_MIT9_70S13_Lect6.pdf
+file_size: 427691
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
