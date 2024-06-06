@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/9-70-social-psychology-spring-2013/4d7e057cc4693991f17b3beb04146a73_MIT9_70S13_Lect11.pdf
+file_size: 242064
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
