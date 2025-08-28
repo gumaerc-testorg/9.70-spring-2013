@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding lecture notes 1.
-file: /courses/9-70-social-psychology-spring-2013/0560d8de0870e61c6624348450f19dfc_MIT9_70S13_std_rst_fm_L1.pdf
+file: /ol-ocw-studio-app/courses/9-70-social-psychology-spring-2013/0560d8de0870e61c6624348450f19dfc_MIT9_70S13_std_rst_fm_L1.pdf
 file_size: 148589
 file_type: application/pdf
 learning_resource_types:
