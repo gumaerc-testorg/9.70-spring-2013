@@ -92,15 +92,15 @@ The Science of Social Psychology and Vice-versa I
 
 1.2-3 Milgram, S. "The Perils of Obedience." *Harper's Magazine*, December 1973.
 
-1.2-4 Baumrind, Diana. "[Some Thoughts on Ethics of Research: After Reading Milgram's" "Behavioral Study of Obedience](http://dx.doi.org/10.1037/h0040128)." *American Psychologist* 19, no. 6 (1964): 421–23.
+1.2-4 Baumrind, Diana. "{{% resource_link "1d7aaf91-2319-41b9-b5f5-4e6276aa1a75" "Some Thoughts on Ethics of Research: After Reading Milgram's\" \"Behavioral Study of Obedience" %}}." *American Psychologist* 19, no. 6 (1964): 421–23.
 
-1.2-5 Milgram, Stanley. "[Issues in the Study of Obedience: A Reply to Baumrind](http://dx.doi.org/10.1037/h0044954)." *American Psychologist* 19, no. 11 (1964): 848–52.
+1.2-5 Milgram, Stanley. "{{% resource_link "045b8034-c210-47d7-80b3-e8ef983cec4c" "Issues in the Study of Obedience: A Reply to Baumrind" %}}." *American Psychologist* 19, no. 11 (1964): 848–52.
 
 1.2-6 \[SA\] Chapter 9.
 
-1.2-7 [*The Human Behavior Experiments*](http://www.imdb.com/title/tt0822813/). Directed by Alex Gibney. Color, 58 min. 2006. \[Fearless symmetry production company, USA, digital production.\]
+1.2-7 {{% resource_link "ce9d82af-1851-4749-bee2-7d33cd0fcb78" "*The Human Behavior Experiments*" %}}. Directed by Alex Gibney. Color, 58 min. 2006. \[Fearless symmetry production company, USA, digital production.\]
 
-1.2-8 Aronson, Elliot, and Diane Bridgeman. "[Jigsaw Groups and the Desegregated Classroom: In Pursuit of Common Goals](http://dx.doi.org/10.1177/014616727900500405)." *Personality and Social Psychology Bulletin* 5, no. 4 (1979): 430–46. (Readings on the social animal.)
+1.2-8 Aronson, Elliot, and Diane Bridgeman. "{{% resource_link "3ae8d877-8809-4d5a-b5f1-159c84a5e2fe" "Jigsaw Groups and the Desegregated Classroom: In Pursuit of Common Goals" %}}." *Personality and Social Psychology Bulletin* 5, no. 4 (1979): 430–46. (Readings on the social animal.)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
@@ -108,7 +108,7 @@ The Science of Social Psychology and Vice-versa I
 The Science of Social Psychology and Vice-versa II
 {{< tdclose >}}{{< tdopen >}}
 
-1.3-1 [*Mindwalk*](http://www.imdb.com/title/tt0100151/). Directed by Bernt Capra. Color, 112 min. 1990. \[Distributed by Triton Pictures, USA, digital production.\]
+1.3-1 {{% resource_link "6dfea08b-ae91-4914-bbc4-e046cd71d057" "*Mindwalk*" %}}. Directed by Bernt Capra. Color, 112 min. 1990. \[Distributed by Triton Pictures, USA, digital production.\]
 
 1.3-2 Chorover, Stephan L. "Paradigms Lost and Regained: Changing Beliefs, Values, and Practices in Neuropsychology." In *Theories of the Evolution of Knowing*. Lawrence Erlbaum Associates, 1990, pp. 87–106. ISBN: 9780805807554.
 
@@ -126,9 +126,9 @@ Persons-In-Contexts I
 
 2.1-1 {{% resource_link "b08393a2-c76e-ac07-389a-ee863c70fcf5" "Human systems: A selection of development schemes (PDF)" %}}
 
-2.1-2 Jackson, Don D. "[The Individual and the Larger Contexts](http://dx.doi.org/10.1111/j.1545-5300.1967.00139.x)." *Family Process* 6, no. 2 (1967): 139–47.
+2.1-2 Jackson, Don D. "{{% resource_link "0d06fe2f-02d8-4a8e-ab6a-bd83cada784f" "The Individual and the Larger Contexts" %}}." *Family Process* 6, no. 2 (1967): 139–47.
 
-2.1-3 Minuchin, Salvador, Bernice L. Rosman, et al. *Psychosomatic Families: Anorexia Nervosa in Context*. Harvard University Press, 1978. ISBN: 9780674722200. \[Preview with [Google Books](http://books.google.com/books?id=_uEaVpbiyD4C&pg=PAfrontcover)\]
+2.1-3 Minuchin, Salvador, Bernice L. Rosman, et al. *Psychosomatic Families: Anorexia Nervosa in Context*. Harvard University Press, 1978. ISBN: 9780674722200. \[Preview with {{% resource_link "2d8fd1ad-2af3-4a4b-9201-0164685e48bb" "Google Books" %}}\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
@@ -138,9 +138,9 @@ Persons-In-Contexts II
 
 2.2-1 \[SA\] Chapter 2.
 
-2.2-2 Asch, Solomon E. "[Opinions and Social Pressure](http://dx.doi.org/10.1038/scientificamerican1155-31)." *Scientific American* 193, no. 5 (1955): 17–26. (Readings About the Social Animal)
+2.2-2 Asch, Solomon E. "{{% resource_link "1810acf5-8d23-4472-b244-4b4032957581" "Opinions and Social Pressure" %}}." *Scientific American* 193, no. 5 (1955): 17–26. (Readings About the Social Animal)
 
-2.2-3 [*The Wave*](http://www.imdb.com/title/tt0083316/). Directed by Alexander Grasshoff. Color, 44 min. 1981.
+2.2-3 {{% resource_link "004d6d3d-17f7-4cf0-8855-af058b31dbbf" "*The Wave*" %}}. Directed by Alexander Grasshoff. Color, 44 min. 1981.
 
 2.2-4 Jones, S. "You Will Do As Directed." In *Facing History and Ourselves: Holocaust and Human Behavior*. Edited by Margot Stern Strom, and William S. Parsons. Facing History and Ourselves National Foundation, 1994. ISBN: 970961584146.
 
@@ -154,7 +154,7 @@ Meaning and Power I
 
 2.3-1 \[SA\] Chapter 3.
 
-2.3-2 [*The Corporation*](http://www.imdb.com/title/tt0379225/). Directed by Mark Achbar, and Jennifer Abbott. Color, 145 min. 2004. \[Big Picture Media Corporation, digital production.\]
+2.3-2 {{% resource_link "e85e98a7-4c22-4922-8dd9-217772340850" "*The Corporation*" %}}. Directed by Mark Achbar, and Jennifer Abbott. Color, 145 min. 2004. \[Big Picture Media Corporation, digital production.\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
@@ -164,13 +164,13 @@ Meaning and Power II
 
 2.4-1 \[SA\] Chapter 4.
 
-2.4-2 Ash, C. et al. "[Living in Societies](http://www.sciencemag.org/content/317/5843/1337.short)." *Science* 317, no. 5843 (2007): 1337. (optional reading - entire [Social Cognition](http://www.sciencemag.org/site/feature/misc/webfeat/socialcognition) section.)
+2.4-2 Ash, C. et al. "{{% resource_link "9977a133-06af-4977-a9cb-1167c2715b6a" "Living in Societies" %}}." *Science* 317, no. 5843 (2007): 1337. (optional reading - entire {{% resource_link "9d96ee8e-f15f-4644-ac1f-1c8633c1a320" "Social Cognition" %}} section.)
 
-2.4-3 Hardin, G. "[The Tragedy of the Commons with Commentary by Crowe, B. and 1969](https://math.uchicago.edu/~shmuel/Modeling/Hardin,%20Tragedy%20of%20the%20Commons.pdf)." The tragedy of the commons revisited, 1968.
+2.4-3 Hardin, G. "{{% resource_link "4854fc0f-e71f-44e4-8eb9-f562aa9830d5" "The Tragedy of the Commons with Commentary by Crowe, B. and 1969" %}}." The tragedy of the commons revisited, 1968.
 
-2.4-4 Rowe, J., and Worldwatch Institute. "The Parallel Economy of the Commons." In *State of the World 2008\_*: Ideas and Opportunities for Sustainable Economies\_. Earthscan, 2007, pp. 138–50. ISBN: 9781844074983. \[Preview with [Google Books](http://books.google.com/books?id=q_QAGdg_w7EC&pg=PAfrontcover)\]
+2.4-4 Rowe, J., and Worldwatch Institute. "The Parallel Economy of the Commons." In *State of the World 2008\_*: Ideas and Opportunities for Sustainable Economies\_. Earthscan, 2007, pp. 138–50. ISBN: 9781844074983. \[Preview with {{% resource_link "e4b0ead2-5a37-4468-8b17-58fc07d029bf" "Google Books" %}}\]
 
-2.4-5 Assadourian, E., and Worldwatch Institute. "Engaging Communities for a Sustainable World." In *State of the World 2008\_*:\_ *Ideas and Opportunities for Sustainable Economies*. Earthscan, 2007, pp. 151–65. ISBN: 9781844074983. \[Preview with [Google Books](http://books.google.com/books?id=q_QAGdg_w7EC&pg=PA151#v=onepage)\]
+2.4-5 Assadourian, E., and Worldwatch Institute. "Engaging Communities for a Sustainable World." In *State of the World 2008\_*:\_ *Ideas and Opportunities for Sustainable Economies*. Earthscan, 2007, pp. 151–65. ISBN: 9781844074983. \[Preview with {{% resource_link "c9087814-8478-4886-8731-034c71facbd3" "Google Books" %}}\]
 
 2.4-6 Calder, J. S., and Worldwatch Institute. "Mobilizing Human Energy." In *State of the World 2008\_*:\_ *Ideas and Opportunities for Sustainable Economies*. Earthscan, 2007, pp. 166–79. ISBN: 9781844074983.
 
@@ -184,11 +184,11 @@ Us and Them I
 
 2.5-1 \[SA\] Chapter 5.
 
-2.5-2 Haney, Craig, W. Curtis Banks, et al. ["Study of Prisoners and Guards in a Simulated Prison." (PDF)](https://www.researchgate.net/publication/235356446_A_Study_of_Prisoners_and_Guards_in_a_Simulated_Prison) *Naval Research Reviews* 9, no. 1–17 (1973).
+2.5-2 Haney, Craig, W. Curtis Banks, et al. {{% resource_link "68fd66f0-19f3-4173-afe9-3aa7f502f121" "\"Study of Prisoners and Guards in a Simulated Prison.\" (PDF)" %}} *Naval Research Reviews* 9, no. 1–17 (1973).
 
 2.5-3 *Quiet Rage: The Stanford Prison Study*. Directed by K. Musen, and P. G. Zimbardo. 1991. \[Stanford, CA: Psychology Dept., Stanford University, videorecording.\]
 
-2.5-4 Osherow, Neal. "[Making Sense of the Nonsensical: An Analysis of Jonestown](http://www.guyana.org/features/jonestown.html)." Readings about the social animal (1988): 68-86.
+2.5-4 Osherow, Neal. "{{% resource_link "64268fdb-da15-47a0-a3ed-ca1d0ec58fbc" "Making Sense of the Nonsensical: An Analysis of Jonestown" %}}." Readings about the social animal (1988): 68-86.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
@@ -198,17 +198,17 @@ Us and Them II
 
 2.6-1 \[SA\] Chapter 6.
 
-2.6-2 American academy of pediatrics, Committee on public education. "[Media Violence](http://dx.doi.org/10.1542/peds.108.5.1222)." *Pediatrics* 108, no. 5 (2001): 1222–6.
+2.6-2 American academy of pediatrics, Committee on public education. "{{% resource_link "bcaf335c-8a7a-4d71-9db3-4c2172585b70" "Media Violence" %}}." *Pediatrics* 108, no. 5 (2001): 1222–6.
 
-2.6-3 "Grand Theft Auto." Rockstar Games, Inc., accessed March 4, 2014, video game. [http://www.rockstargames.com/gta/](http://www.rockstargames.com/gta/)
+2.6-3 "Grand Theft Auto." Rockstar Games, Inc., accessed March 4, 2014, video game. {{% resource_link "f62a493c-6524-4735-8569-dba287f685ee" "http://www.rockstargames.com/gta/" %}}
 
-2.6-4 Wilson, Edward O. *Sociobiology: The New Synthesis*. Belknap Press of Harvard University Press, 1976. \[Preview with [Google Books](http://books.google.com/books?id=v7lV9tz8fXAC&pg=PAfrontcover)\]
+2.6-4 Wilson, Edward O. *Sociobiology: The New Synthesis*. Belknap Press of Harvard University Press, 1976. \[Preview with {{% resource_link "9e80bd73-fa57-4659-857b-fedff613602b" "Google Books" %}}\]
 
 2.6-5 *Sociobiology: Doing what comes naturally*. Published by Document Associates Inc., New York, NY 1976. \[videorecording.\]
 
 2.6-6 Sociobiology: Doing what comes naturally transcript of the soundtrack.
 
-2.6-7 [![Buy at MIT Press](https://ocw.mit.edu/images/mp_logo.gif)](https://mitpress.mit.edu/9780262030687) Chorover, Stephan L. Chapters 1, 5, and 7 in *From Genesis to Genocide: The Meaning of Human Nature and the Power of Behavior Control*. MIT Press, 1979. ISBN: 9780262030687.
+2.6-7 {{% resource_link "b1369fc8-5957-48bb-8cce-ad3e65297193" "![Buy at MIT Press](https://ocw.mit.edu/images/mp_logo.gif)" %}} Chorover, Stephan L. Chapters 1, 5, and 7 in *From Genesis to Genocide: The Meaning of Human Nature and the Power of Behavior Control*. MIT Press, 1979. ISBN: 9780262030687.
 
 2.6-8 Lewontin, Richard C., Arthur J. Schwartz, et al. *Biology as a Social Weapon*. Burgess Publication Company, 1977. ISBN: 9780808745341.
 
@@ -220,9 +220,9 @@ Who is/are "We" I
 
 2.7-1 \[SA\] Chapter 7.
 
-2.7-2 [*A Class Divided*](http://www.imdb.com/title/tt0257489/). Produced and directed by William Peters. Color, 60 min. 1985. \[Broadcast on [Frontline](http://www.pbs.org/wgbh/pages/frontline/shows/divided/etc/view.html) March 26, 1985, digital production.\]
+2.7-2 {{% resource_link "5a03a39e-f37d-498d-9dc9-704a5ab905b7" "*A Class Divided*" %}}. Produced and directed by William Peters. Color, 60 min. 1985. \[Broadcast on {{% resource_link "59c40323-3c39-4bb0-9465-1eb108cc27ff" "Frontline" %}} March 26, 1985, digital production.\]
 
-2.7-3 [*Crash*](http://www.imdb.com/title/tt0375679/). Produced and Directed by Paul Haggis. Color, 112 min. 2005 \[Distributed by Lions Gate Entertainment Corporation, digital production.\]
+2.7-3 {{% resource_link "bf030a1a-e36e-4f81-8362-9fa771e9dec5" "*Crash*" %}}. Produced and Directed by Paul Haggis. Color, 112 min. 2005 \[Distributed by Lions Gate Entertainment Corporation, digital production.\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
@@ -232,9 +232,9 @@ Who is/are "We" II
 
 2.8-1 \[SA\] Chapter 8.
 
-2.8-2 Aronson, Elliot, and Diane Bridgeman. "[Jigsaw Groups and the Desegregated Classroom: In Pursuit of Common Goals](http://dx.doi.org/10.1177/014616727900500405)." *Personality and Social Psychology Bulletin* 5, no. 4 (1979): 430–46. (Units 1.2–1.8.)
+2.8-2 Aronson, Elliot, and Diane Bridgeman. "{{% resource_link "3ae8d877-8809-4d5a-b5f1-159c84a5e2fe" "Jigsaw Groups and the Desegregated Classroom: In Pursuit of Common Goals" %}}." *Personality and Social Psychology Bulletin* 5, no. 4 (1979): 430–46. (Units 1.2–1.8.)
 
-2.8-3 Assadourian, E., and Worldwatch Institute. "Engaging Communities for a Sustainable World." In *State of the World 2008:* *Ideas and Opportunities for Sustainable Economies*. Earthscan, 2007, pp. 151–65. ISBN: 9781844074983. \[Preview with [Google Books](http://books.google.com/books?id=q_QAGdg_w7EC&pg=PA151#v=onepage)\]
+2.8-3 Assadourian, E., and Worldwatch Institute. "Engaging Communities for a Sustainable World." In *State of the World 2008:* *Ideas and Opportunities for Sustainable Economies*. Earthscan, 2007, pp. 151–65. ISBN: 9781844074983. \[Preview with {{% resource_link "c9087814-8478-4886-8731-034c71facbd3" "Google Books" %}}\]
 
 2.8-4 Calder, J. S., and Worldwatch Institute. "Mobilizing Human Energy." In *State of the World 2008:* *Ideas and Opportunities for Sustainable Economies*. Earthscan, 2007, pp. 166–79. ISBN: 9781844074983. 
 
